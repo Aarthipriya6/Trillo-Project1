@@ -1,7 +1,7 @@
 # Trillo-Project1
 
 ***
-## Text tag
+## TECH STACK
 ***
 
 + HTML
